@@ -1,4 +1,32 @@
-# Getting Started with Create React App
+# Todo App
+
+A simple React-based todo application with Bootstrap styling.
+
+## Features
+
+- Add new tasks
+- Mark tasks as complete/incomplete
+- Clean and responsive UI with Bootstrap
+
+## Live Demo
+
+🚀 **[View Live App](https://iness000.github.io/todo-app)**
+
+## Deployment
+
+This app is automatically deployed to GitHub Pages using GitHub Actions. Every push to the main branch triggers a new deployment.
+
+### Manual Deployment
+
+To deploy manually, run:
+
+```bash
+npm run deploy
+```
+
+This will build the app and deploy it to the gh-pages branch.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -60,10 +88,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
